@@ -6,7 +6,7 @@ Este proyecto tiene como propósito la utilización de genéricos y delegados, d
 
 Se debe de seleccionar añadir un valor por lo menos dos veces hasta que el conteo del elemento sea igual a 2, después seleccionar el tipo de operación matemática que se desea realizar y al finalizar, se puede finalizar la ejecucción. 
 
-**Manejo de excepciones: **
+**Manejo de excepciones:**
 
 - No se puede introducir un valor que no sea numérico.
 
