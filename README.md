@@ -30,7 +30,7 @@ Se debe de seleccionar añadir un valor por lo menos dos veces hasta que el cont
 
 **Utilización de genéricos y delegados en el código:**
 
-- **Genéricos: **La clase ListNumGenerico<T> y el método RunMenu<T> utilizan genéricos para poder trabajar con diferentes tipos de datos numéricos sin duplicar el código.
+- **Genéricos:** La clase ListNumGenerico<T> y el método RunMenu<T> utilizan genéricos para poder trabajar con diferentes tipos de datos numéricos sin duplicar el código.
 
-- ** Delegados: **se hace la definición en OperacionMetematica<T> para poder representar los que son las operaciones que necesiten al menos dos valores como lo son: suma, resta, multiplicación y división que están implementadas como lambdas y se pasan al método Operar de la clase ListNumGenerico.
+- **Delegados:** Se hace la definición en OperacionMetematica<T> para poder representar los que son las operaciones que necesiten al menos dos valores como lo son: suma, resta, multiplicación y división que están implementadas como lambdas y se pasan al método Operar de la clase ListNumGenerico.
 
